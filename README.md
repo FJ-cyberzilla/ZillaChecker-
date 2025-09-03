@@ -1,7 +1,8 @@
-# ZillaChecker
+# ZillaChecker®
 Sophisticated Pattern Recognition
+Powered by FJ™ Cyberzilla
 
-ZillaChecker - AI-Powered Pattern Recognition System
+ZillaChecker® - AI Powered Pattern Recognition System
 
 
 🚀 Overview
