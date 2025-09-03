@@ -1,4 +1,4 @@
-# ZillaChecker-
+# ZillaChecker
 Sophisticated Pattern Recognition
 
 ZillaChecker - AI-Powered Pattern Recognition System
