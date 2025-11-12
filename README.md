@@ -1,4 +1,5 @@
 # ZillaChecker®
+[![CodeQL Advanced](https://github.com/FJ-cyberzilla/ZillaChecker-/actions/workflows/codeql.yml/badge.svg)](https://github.com/FJ-cyberzilla/ZillaChecker-/actions/workflows/codeql.yml)
 Sophisticated Pattern Recognition
 Powered by FJ™ Cyberzilla
 
